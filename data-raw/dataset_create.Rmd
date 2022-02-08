@@ -5,7 +5,7 @@ date: "11/18/2021"
 output: html_document
 dataset:
   citation:
-      title: "Social Data Commons: Urgent Care Locations"
+      title: "Social Data Commons: Health, Behavior, Diet: Urgent Care Locations"
       subtitle: ""
       dsDescriptionValue: "Urgent Care Locations in the National Capital Region"
       subject: "Social Sciences (Ex: Education, Politics, Sociology, Economics, Psychology)"
@@ -18,8 +18,8 @@ dataset:
         - authorName: "Oh, Eric"
           authorAffiliation: "Univeristy of Virginia"
       datasetContact:
-        - datasetContactEmail: "eo9tv@virginia.edu"
-          datasetContactName: "Oh, Eric"
+        - datasetContactEmail: "ads7fg@virginia.edu"
+          datasetContactName: "Schroeder, Aaron"
   geospatial:
     geographicCoverage:
       country: "United States"
