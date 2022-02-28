@@ -10,8 +10,8 @@ dataset:
       dsDescriptionValue: "Urgent Care Locations in the National Capital Region"
       subject: "Social Sciences (Ex: Education, Politics, Sociology, Economics, Psychology)"
       productionDate: "2022-01-28"
-      timePeriodCoveredStart: "2022-01-12"
-      timePeriodCoveredEnd: "2022-01-12"
+      timePeriodCoveredStart: "2021-01-01"
+      timePeriodCoveredEnd: "2021-12-31"
       dataSources:
         - "Homeland Infrastructure Foundation Level Data"
       author:
@@ -25,7 +25,9 @@ dataset:
       country: "United States"
       state: "Virginia, District of Columbia, Maryland"
     geographicUnit:
-      - "Place locations"
+      - "County"
+      - "Census tract"
+      - "Block group"
 ---
 
 ```{r setup, include=FALSE}
