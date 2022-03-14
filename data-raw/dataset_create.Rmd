@@ -5,21 +5,23 @@ date: "11/18/2021"
 output: html_document
 dataset:
   citation:
-      title: "Social Data Commons: Urgent Care Locations"
+      title: "Social Data Commons: Health, Behavior, Diet: Urgent Care Locations Access Scores"
       subtitle: ""
-      dsDescriptionValue: "Urgent Care Locations in the National Capital Region"
+      dsDescriptionValue: "Access Scores for Emergency Medical Services (EMS) located in the National Capital Region NCR given by the Floating Catchment Areas and Urgent Care Locations in the National Capital Region"
       subject: "Social Sciences (Ex: Education, Politics, Sociology, Economics, Psychology)"
       productionDate: "2022-01-28"
       timePeriodCoveredStart: "2021-01-01"
       timePeriodCoveredEnd: "2021-12-31"
       dataSources:
         - "Homeland Infrastructure Foundation Level Data"
+        - "ACS"
       author:
-        - authorName: "Oh, Eric"
+        - authorName: "Montalvo, Cesar"
           authorAffiliation: "Univeristy of Virginia"
+
       datasetContact:
-        - datasetContactEmail: "eo9tv@virginia.edu"
-          datasetContactName: "Oh, Eric"
+        - datasetContactEmail: "ads7fg@virginia.edu"
+          datasetContactName: "Schroeder, Aaron"
   geospatial:
     geographicCoverage:
       country: "United States"
