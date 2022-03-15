@@ -6,7 +6,7 @@
 \alias{dc.hifld.urgent-package}
 \title{dc.hifld.urgent: Social Data Commons: Urgent Care Facility Access Scores}
 \description{
-Allows user to easily get YOUR_DATA data from the SDAD Data Commons.  Data can be provided directly or in a file.
+Allows user to easily get YOUR_DATA data from the SDAD Data Commons. Data can be provided directly or in a file.
 }
 \author{
 \strong{Maintainer}: Cesar Montalvo \email{cpm9w@virginia.edu}

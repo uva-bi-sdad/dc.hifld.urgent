@@ -1,0 +1,73 @@
+{
+  "name": "dc.hifld.urgent",
+  "data": [
+    {
+      "name": [],
+      "variables": {},
+      "file": "dcmdva_pl_hifld_2021_urgent_care.csv.xz",
+      "size": 15556,
+      "md5": "eb197d78e99f7518f1988d01859ab5c9"
+    },
+    {
+      "name": "acccess_scores_urgent",
+      "variables": ["urgent_pop_cnt", "urgent_cnt", "urgent_near_10_mean", "urgent_near_10_median", "urgent_2sfca", "urgent_e2sfca", "urgent_3sfca"],
+      "file": "dmv_cttrbg_hifld_2021_acccess_scores_urgent.csv.xz",
+      "size": 189188,
+      "md5": "3e161f50e76b78ed1b0e1efb3515f95b"
+    },
+    {
+      "name": "access_scores_urgent",
+      "variables": ["urgent_pop_cnt", "urgent_cnt", "urgent_near_10_mean", "urgent_near_10_median", "urgent_2sfca", "urgent_e2sfca", "urgent_3sfca"],
+      "file": "dmv_cttrbg_hifld_2021_access_scores_urgent.csv.xz",
+      "size": 189188,
+      "md5": "3e161f50e76b78ed1b0e1efb3515f95b"
+    },
+    {
+      "name": [],
+      "variables": {},
+      "file": "ncr_pl_hifld_2021_urgent_care.csv.xz",
+      "size": 6416,
+      "md5": "075b3b110df18510859e6b87f474ec03"
+    },
+    {
+      "name": "access_scores_urgent",
+      "variables": ["urgent_pop_cnt", "urgent_cnt", "urgent_near_10_mean", "urgent_near_10_median", "urgent_2sfca", "urgent_e2sfca", "urgent_3sfca"],
+      "file": "va_hdcttrbg_hifld_2021_access_scores_urgent.csv.xz",
+      "size": 391620,
+      "md5": "a808e02805eae0d6cfd44d022a0bc7f6"
+    }
+  ],
+  "distributions": {
+    "dataverse": {
+      "id": 55743,
+      "doi": "doi:10.18130/V3/YQ2NKM",
+      "server": "https://dataverse.lib.virginia.edu/",
+      "data": [
+        {
+          "file": "dcmdva_pl_hifld_2021_urgent_care.csv.xz",
+          "id": 55751,
+          "size": 15556,
+          "md5": "eb197d78e99f7518f1988d01859ab5c9"
+        },
+        {
+          "file": "dmv_cttrbg_hifld_2021_access_scores_urgent.csv.xz",
+          "id": 55985,
+          "size": 189188,
+          "md5": "3e161f50e76b78ed1b0e1efb3515f95b"
+        },
+        {
+          "file": "ncr_pl_hifld_2021_urgent_care.csv.xz",
+          "id": 55748,
+          "size": 6416,
+          "md5": "075b3b110df18510859e6b87f474ec03"
+        },
+        {
+          "file": "va_hdcttrbg_hifld_2021_access_scores_urgent.csv.xz",
+          "id": 55996,
+          "size": 391620,
+          "md5": "a808e02805eae0d6cfd44d022a0bc7f6"
+        }
+      ]
+    }
+  }
+}
