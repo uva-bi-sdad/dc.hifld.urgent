@@ -17,7 +17,9 @@
         "date_accessed": 2021,
         "url": "https://hifld-geoplatform.opendata.arcgis.com/"
       }
-    ]
+    ],
+    "layer": {
+        "source": "https://raw.githubusercontent.com/uva-bi-sdad/dc.hifld.urgent/master/data/points_2021.geojson"}
   },
   "access_scores_urgent:urgent_cnt": {
     "category": "Health",
@@ -37,7 +39,9 @@
         "date_accessed": 2021,
         "url": "https://hifld-geoplatform.opendata.arcgis.com/"
       }
-    ]
+    ],
+    "layer": {
+        "source": "https://raw.githubusercontent.com/uva-bi-sdad/dc.hifld.urgent/master/data/points_2021.geojson"}
   },
   "access_scores_urgent:urgent_3sfca": {
     "category": "Health",
@@ -58,7 +62,9 @@
         "date_accessed": 2021,
         "url": "https://hifld-geoplatform.opendata.arcgis.com/"
       }
-    ]
+    ],
+      "layer": {
+        "source": "https://raw.githubusercontent.com/uva-bi-sdad/dc.hifld.urgent/master/data/points_2021.geojson"}
   },
   "_references": {
     "lou04": {
