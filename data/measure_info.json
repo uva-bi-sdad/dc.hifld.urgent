@@ -1,5 +1,5 @@
 {
-  "access_scores_urgent:urgent_near_10_median": {
+  "acccess_scores_urgent_care_centers:urgent_near_10_median": {
     "category": "Health",
     "measure_table": "dc_health_behavior_diet.va_hdcttr_sdad_2021_access_scores_urgent",
     "full_name": "access_scores_urgent:urgent_near_10_median",
@@ -13,9 +13,9 @@
     "equity_category": "Availability",
     "sources": [
       {
-        "name": "Homeland Infrastructure Foundation-Level Data (HIFLD)",
-        "date_accessed": 2021,
-        "url": "https://hifld-geoplatform.opendata.arcgis.com/"
+        "name": "Google Maps",
+        "date_accessed": 2022,
+        "url": "https://www.google.com/maps"
       }
     ],
     "layer": {
@@ -43,7 +43,7 @@
     "layer": {
         "source": "https://raw.githubusercontent.com/uva-bi-sdad/dc.hifld.urgent/master/data/points_2021.geojson"}
   },
-  "access_scores_urgent:urgent_3sfca": {
+  "acccess_scores_urgent_care_centers:urgent_3sfca": {
     "category": "Health",
     "measure_table": "dc_health_behavior_diet.va_hdcttr_sdad_2021_urgent_access_scores",
     "full_name": "access_scores_urgent:urgent_3sfca",
@@ -58,9 +58,9 @@
     "citations": ["lou04", "lou09", "lou03", "saxon20"],
     "sources": [
       {
-        "name": "Homeland Infrastructure Foundation-Level Data (HIFLD)",
-        "date_accessed": 2021,
-        "url": "https://hifld-geoplatform.opendata.arcgis.com/"
+        "name": "Google Maps",
+        "date_accessed": 2022,
+        "url": "https://www.google.com/maps"
       }
     ],
       "layer": {
