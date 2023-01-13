@@ -19,7 +19,7 @@
       }
     ],
     "layer": {
-        "source": "https://raw.githubusercontent.com/uva-bi-sdad/dc.hifld.urgent/master/data/points_2021.geojson"}
+        "source": "https://raw.githubusercontent.com/uva-bi-sdad/dc.hifld.urgent/master/data/points_2022.geojson"}
   },
   "access_scores_urgent:urgent_cnt": {
     "category": "Health",
@@ -41,7 +41,7 @@
       }
     ],
     "layer": {
-        "source": "https://raw.githubusercontent.com/uva-bi-sdad/dc.hifld.urgent/master/data/points_2021.geojson"}
+        "source": "https://raw.githubusercontent.com/uva-bi-sdad/dc.hifld.urgent/master/data/points_2022.geojson"}
   },
   "acccess_scores_urgent_care_centers:urgent_3sfca": {
     "category": "Health",
